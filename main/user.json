@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "user_name": "github-auditor-user",
+      "user_name": "github-user",
       "auth_type": "Github",
       "policies": [
         {
@@ -12,3 +12,16 @@
         }
       ]
     },
+    {
+      "email": "",
+      "auth_type": "SSO",
+      "policies": [
+        {
+          "type": "github",
+          "role": "admin",
+          "scope": "customer"
+        }
+      ]
+    }
+  ]
+}
