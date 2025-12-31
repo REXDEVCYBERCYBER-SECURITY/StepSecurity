@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "user_name": "github-auditor-user",
+      "auth_type": "Github",
+      "policies": [
+        {
+          "type": "github",
+          "role": "auditor",
+          "scope": "organization",
+          "organization": "your-org-name"
+        }
+      ]
+    },
