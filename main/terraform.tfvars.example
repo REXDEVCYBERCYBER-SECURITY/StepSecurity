@@ -1,0 +1,6 @@
+# StepSecurity Configuration
+STEP_SECURITY_API_KEY="step_ff88ffd2-ecff-4166-9e53-f78286785139"
+STEP_SECURITY_CUSTOMER=REXDEVCYBERCYBER-SECURITY
+
+# JSON file path (optional, defaults to users.json)
+# users_json_file = "users.json"
