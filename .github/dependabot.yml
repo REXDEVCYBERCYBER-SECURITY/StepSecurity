@@ -8,7 +8,7 @@ updates:
   - package-ecosystem: "github-actions"
     directory: "terraform/"
     schedule:
-      interval: "weekly"
+      interval: "weekly 
     groups:
       actions:
         patterns:
